@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "35b0d0d0-03df-8832-956f-c708296ae939",
+      "b531928d-7a85-1672-bb22-f0ce26134f07"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Atmospheric Physics and Chemistry",
+  "course_description": "This course provides an introduction to the physics and chemistry of the atmosphere, including experience with computer codes. It is intended for undergraduates and first year graduate students.\n",
+  "department_numbers": [
+    "10",
+    "12"
+  ],
+  "extra_course_numbers": "12.306,12.806J",
+  "primary_course_number": "10.571J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
